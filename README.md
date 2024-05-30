@@ -1,11 +1,6 @@
-* Owner
-* Hannan AnSari
-
-```
-rm -rf FILE
-git clone --depth=1 https://github.com/Hannan-404/FILE
-cd FILE
-python FILE.py
+rm -rf MOMO
+git clone https://github.com/SAMI-BNA/BNL/issues/1
+python MOMO.py
 ```
 
 * ENJOY🥵🔥
